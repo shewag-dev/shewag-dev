@@ -1,20 +1,24 @@
-# Shewag S
-
 <div align="center">
 
-# Hi,👋 I'm Shewag S
+<a href="https://www.linkedin.com/in/shewag-s-98ba49343/">
 
-### B.Tech IT Student |  AI Enthusiast |  Python Developer | Data Science
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=230&section=header&text=Shewag%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=👋%20Hi,%20I'm%20Shewag%20S&descAlignY=62&descSize=20&descColor=ffffff"/>
+
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=B.Tech+IT+Student;AI+Enthusiast;Aspiring+AI+Engineer;Generative+AI+Explorer;Machine+Learning+Learner;Python+%7C+SQL+%7C+Data+Science;Building+AI-Powered+Projects" />
 
 </div>
 
 ---
 
-##  I'm Shewag S
+## 👋 I'm Shewag S
 
 <div align="center">
 
-**Python  | SQL | web tech **
+**🤖 AI Enthusiast | 🧠 Generative AI Explorer | 📊 Data Science**
 
 </div>
 
@@ -23,9 +27,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology Student
-- 🐍 Interested in Python Programming
+- 🤖 Passionate about Artificial Intelligence & Generative AI
+- 🧠 Exploring Machine Learning & Deep Learning
+- ✨ Interested in LLMs, AI Agents & Prompt Engineering
 - 📊 Exploring Data Science & Data Analytics
-- 🤖 Learning Artificial Intelligence 
+- 🐍 Using Python as a tool to build AI solutions
 - 🗄️ Learning SQL & Database Management
 - 💡 Passionate about learning and building real-world projects
 - 🚀 Always exploring new technologies and improving my skills
@@ -48,25 +54,37 @@
 
 <div align="center">
 
-![Python](https://img.icons8.com/color/48/python.png)
-![HTML5](https://img.icons8.com/color/48/html-5.png)
-![CSS3](https://img.icons8.com/color/48/css3.png)
-![JavaScript](https://img.icons8.com/color/48/javascript.png)
-![Git](https://img.icons8.com/color/48/git.png)
-![GitHub](https://img.icons8.com/glyph-neue/48/github.png)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mysql,mongodb,flask" />
 
 </div>
 
-### Also familiar with:
+### 🤖 AI & Data
 
-- 📊 Pandas & NumPy
-- 📈 Matplotlib & Data Visualization
-- 🗄️ MySQL & DBMS
-- 🍃 MongoDB
-- 🤖 Machine Learning Basics
+- 🤖 Artificial Intelligence
 - 🧠 Generative AI
-- 🤖 Agentic AI
+- 🧩 Agentic AI
+- 📚 Machine Learning Basics
+- 🧠 Deep Learning Basics
+- 📊 Data Science
+- 📈 Data Analytics
+- 📊 Pandas & NumPy
+- 📉 Matplotlib & Data Visualization
+
+### 💻 Programming & Development
+
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 - 🌐 Flask
+
+### 🗄️ Databases & Tools
+
+- 🗄️ MySQL
+- 🍃 MongoDB
+- 🔧 Git
+- 🐙 GitHub
 - 💻 VS Code
 
 ---
@@ -97,6 +115,7 @@
 - 🤖 AI-powered travel planning assistant
 - 📍 Helps users plan trips based on destination, budget and duration
 - 🧳 Provides personalized travel suggestions
+- 💡 Focused on conversational AI and intelligent recommendations
 
 ---
 
@@ -104,13 +123,14 @@
 
 ### 📊 Thiranex – Data Science Intern
 
-- Worked on data cleaning and preprocessing
-- Performed data analysis and visualization
-- Worked with real-world datasets using Python
+- 🧹 Worked on data cleaning and preprocessing
+- 📊 Performed data analysis and visualization
+- 🐍 Worked with datasets using Python
+- 📈 Explored practical Data Science workflows
 
 ### 🐍 CodeAlpha – Python Programming Intern
 
-- Developed Python mini projects
+- 💻 Developed Python mini projects
 - 🤖 Mini Chatbot
 - 🎮 Hangman Game
 - 📈 Stock Portfolio project
@@ -119,11 +139,14 @@
 
 ## 🎯 2026 Goals
 
-- 🚀 Build more real-world projects
-- 🤖 Improve AI & Generative AI skills
-- 📊 Become stronger in Data Science
-- 💻 Improve Python & SQL
-- 🏆 Earn industry-recognized certifications
+- 🤖 Build a strong career in Artificial Intelligence
+- 🧠 Improve Machine Learning & Deep Learning skills
+- ✨ Explore Generative AI and LLMs
+- 🧩 Learn more about AI Agents
+- 🚀 Build real-world AI-powered applications
+- 📊 Strengthen Data Science knowledge
+- 💻 Improve Python & SQL for AI development
+- 🏆 Earn industry-recognized AI certifications
 - 🌟 Contribute to Open Source
 
 ---
@@ -132,9 +155,11 @@
 
 <div align="center">
 
-![Shewag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shewag526-blip&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=shewag526-blip&show_icons=true&theme=dark&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shewag526-blip&layout=compact&theme=dark)
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shewag526-blip&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
@@ -152,8 +177,6 @@
 
 <div align="center">
 
-### 💻 Learning • Building • Exploring 🚀
-
-**Thanks for visiting my profile! ⭐**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Exploring+AI;Turning+Ideas+Into+AI+Projects;The+Future+Is+Intelligent+%F0%9F%A4%96;Thanks+For+Visiting+My+Profile+%E2%AD%90" />
 
 </div>
