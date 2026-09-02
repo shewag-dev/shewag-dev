@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Generative+AI+Explorer;Aspiring+AI+Engineer;Machine+Learning+Learner;Data+Science+Enthusiast;Building+AI-Powered+Projects&animation=rainbow&color=FFFFFF&size=18&duration=2500&pause=900&center=true&vCenter=true&width=650&height=60" />
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Generative+AI+Explorer;Aspiring+AI+Engineer;Machine+Learning+Learner;Data+Science+Enthusiast;Building+AI-Powered+Projects&animation=fade&color=FFFFFF&size=18&duration=2500&pause=900&center=true&vCenter=true&width=650&height=60" />
 </div>
 
 ---
