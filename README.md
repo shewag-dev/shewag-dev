@@ -4,7 +4,7 @@
 
 # Hi,👋 I'm Shewag S
 
-### Python Developer | Data Science Enthusiast | AI Explorer | Web Developer
+### B.Tech IT Student |  AI Enthusiast |  Python Developer | Data Science
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**Python Developer | Data Science Enthusiast | Aspiring AI Engineer**
+**Python  | SQL | web tech **
 
 </div>
 
