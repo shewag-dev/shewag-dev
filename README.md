@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Shewag S
+# Hi,👋 I'm Shewag S
 
 ### Python Developer | Data Science Enthusiast | AI Explorer | Web Developer
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi, I'm Shewag S
+##  I'm Shewag S
 
 <div align="center">
 
