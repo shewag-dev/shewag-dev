@@ -1,24 +1,24 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shewag-s-98ba49343/">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=230&section=header&text=Shewag%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=👋%20Hi,%20I'm%20Shewag%20S&descAlignY=62&descSize=20&descColor=ffffff"/>
-
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=B.Tech+IT+Student;AI+Enthusiast;Aspiring+AI+Engineer;Generative+AI+Explorer;Machine+Learning+Learner;Python+%7C+SQL+%7C+Data+Science;Building+AI-Powered+Projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Shewag%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=B.Tech%20IT%20Student%20%7C%20AI%20Enthusiast%20%7C%20Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=65&descSize=15&descColor=ffffff" />
 
 </div>
 
 ---
 
-## 👋 I'm Shewag S
+# Hi, 👋 I'm Shewag S
 
 <div align="center">
 
-**🤖 AI Enthusiast | 🧠 Generative AI Explorer | 📊 Data Science**
+### 🎓 B.Tech IT Student | 🤖 AI Enthusiast | 🚀 Aspiring AI Engineer | 📊 Data Science | 🐍 Python | 🧠 Machine Learning
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+SQL+%7C+Web+Technologies;Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+AI+Agents;Data+Science+%7C+Data+Analytics;Building+AI-Powered+Projects" />
 
 </div>
 
@@ -63,11 +63,11 @@
 - 🤖 Artificial Intelligence
 - 🧠 Generative AI
 - 🧩 Agentic AI
-- 📚 Machine Learning Basics
+- 📚 Machine Learning
 - 🧠 Deep Learning Basics
 - 📊 Data Science
 - 📈 Data Analytics
-- 📊 Pandas & NumPy
+- 🐼 Pandas & NumPy
 - 📉 Matplotlib & Data Visualization
 
 ### 💻 Programming & Development
@@ -99,7 +99,7 @@
 
 ### 📊 Data Cleaning & Analysis
 
-- 🐍 Python-based data science project
+- 🐍 Python-based Data Science project
 - 🧹 Data cleaning and preprocessing
 - 📊 Data analysis and visualization
 - 📈 Worked with datasets using Pandas, NumPy and Matplotlib
@@ -128,12 +128,12 @@
 - 🐍 Worked with datasets using Python
 - 📈 Explored practical Data Science workflows
 
-### 🐍 CodeAlpha – Python Programming Intern
+### 💻 CodeAlpha – Python Programming Intern
 
 - 💻 Developed Python mini projects
 - 🤖 Mini Chatbot
 - 🎮 Hangman Game
-- 📈 Stock Portfolio project
+- 📈 Stock Portfolio Project
 
 ---
 
@@ -177,6 +177,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Exploring+AI;Turning+Ideas+Into+AI+Projects;The+Future+Is+Intelligent+%F0%9F%A4%96;Thanks+For+Visiting+My+Profile+%E2%AD%90" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Exploring+AI;Turning+Ideas+Into+AI+Projects;The+Future+Is+Intelligent+%F0%9F%A4%96;Thanks+For+Visiting+My+Profile+%E2%AD%90" />
 
 </div>
