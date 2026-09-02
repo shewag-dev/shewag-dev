@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=220&section=header&text=Shewag%20S&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=65&descSize=15&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Shewag%20S&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=65&descSize=15&descColor=ffffff" />
 
 </div>
 
@@ -19,9 +19,7 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Python+%7C+SQL+%7C+Web+Technologies;Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+AI+Agents;Data+Science+%7C+Data+Analytics;Building+AI-Powered+Projects" />
-
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Enthusiast;Generative+AI+Explorer;Aspiring+AI+Engineer;Machine+Learning+Learner;Data+Science+Enthusiast;Building+AI-Powered+Projects&animation=glitch&color=FFFFFF&size=18&duration=2500&pause=900&center=true&vCenter=true&width=650&height=60" />
 </div>
 
 ---
